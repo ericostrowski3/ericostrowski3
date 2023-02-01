@@ -1,6 +1,7 @@
 👋 Hi! I’m Eric Ostrowski
 - I am currently studying Computer Science at the University of Wisconsin - Stevens Point,
   where I will graduate from next fall. I'm open to any new opportunities, and am currently educating myself on AI Integrations.
+- Repositories currently privated due to University :(
 - All other links and accounts can be found on [ericsco.de](https://ericsco.de/) :)
 
 <!---
